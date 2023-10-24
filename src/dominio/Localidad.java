@@ -1,4 +1,4 @@
-ovincias.githttps://github.com/dckage dominio;
+package dominio;
 
 public class Localidad { 
 
